@@ -1,120 +1,131 @@
--  name: 'Myesha Hoque'
-   img: 'myesha.png'
+-  name: 'Michelle Lin'
+   img: 'michelle.png'
    role: 'Chair'
    email: 'mse@g.skule.ca'
    description: |
      Pronouns: She/her<br />
-     Year: 2T1 + PEY<br />
-     Feel free to reach out to ask questions! As chair I hope to bring together the MSE community for fun events and other activities
--  name: 'Amanda Morelli'
-   img: 'amanda.png'
+     Year: 2T2 + PEY<br />
+     Welcome to MSE feel free to reach out to ask questions! As chair I hope to bring together the MSE community for fun events and other activities
+     
+-  name: 'Joshua Marquez'
+   img: 'josh.png'
    role: 'Vice-Chair'
    email: ''
    description: |
-     Pronouns: She/her<br />
-     Year: 2T3<br />
-     Hello hello all you lovely MSEs! I'm Amanda (she/her) and I'm a 2T3 (3rd year)! I'm the vice-chair of MSE club this year, so I'm in charge of locker rentals and MSE merch. if you have any questions regarding lockers, merch, or just wanna chat about anything at all, I'd be more than happy to get in touch! : )
--  name: 'Joshua Marquez'
-   img: 'josh.jpg'
+     Pronouns: He/him<br />
+     Year: 2T4<br />
+     Hey everyone! My name is Josh and I am a MSE 2T4. Feel free to reach out
+          to me on discord if you have any questions!
+          
+-  name: 'Mason McGregor'
+   img: 'mason.png'
    role: 'Finance director'
    email: ''
    description: |
      Pronouns: He/him<br />
      Year: 2T4<br />
-     Hey everyone! My name is Josh and I am a MSE 2T4 (2nd year). I am the finance director for this year and I am in charge of creating the budget and managing all of the finances for all things related to MSE student activities. Feel free to reach out to me on discord if you have any questions!
--  name: 'Lillian Kang'
-   img: 'lillian.png'
+     
+-  name: 'TBA'
+   img: 'blank_pic.png'
    role: 'Sports and Wellness Director'
    email: ''
    description: |
-     Pronouns: They/them, She/her<br />
-     Year: 2T4<br />
-     Hey everyone! My name is Lillian (2T4) and I'm your Sports and Wellness director this year! While due to covid there aren't as many sports going on, we're working hard to bring you some fun "Wellness" events to help you meet more people and connect to the wider MSE community. If you have any questions, concerns, or need any help navigating the various university health resources (mental, physical, spiritual, accessibility, and anything else!) please feel free to reach out to me on discord! Stay safe and don't die!
--  name: 'Mark Liao'
-   img: 'mark_liao.jpg'
+     Pronouns: N/A<br />
+     Year: N/A<br />
+     
+-  name: 'Renee Slen'
+   img: 'renee.png'
    role: 'Events Director'
    email: ''
    description: |
-     Pronouns: He/him<br />
-     Year: 2T1 + PEY<br />
-     Hi all! My name is Mark and I'm an MSE 2T1 + PEY (fourth year). I am the events director for MSE Club this year and I'm in charge of running events like holiday events and Buckyball! (Buckyball might work differently this year - but something is in the works!) Feel free to reach out to me if you have any questions about how to run your own events or just shoot me any event ideas you have! MS-see you at our events! :)
--  name: 'Renee Slen'
-   img: 'renee.jpg'
+     Pronouns: She/her<br />
+     Year: 2T5 <br />
+     Hey y’all! I’m Renee (She/Her)(2T5 + PEY), and I’m the Events Director for MSE Club. I’m looking forward to organizing all of the events we have planned for this year!
+     
+-  name: 'Kady Jeaurond'
+   img: 'kady.png'
    role: 'Communications & Social Director'
    email: ''
    description: |
      Pronouns: She/her<br />
-     Year: 2T5<br />
-     Hey all! My name is Renee Slen, and I use she/her pronouns. I am an MSE 2T5, and I am the Social/Communications Director for MSE Club this year! My role mainly includes relaying information from the club to MSE students, whether that is through Instagram, Discord, or email. Feel free to reach out to me on Instagram (@mseclubuoft, @reneeslen), or on Discord!
--  name: 'Samantha Paradi-Maropakis'
-   img: 'samantha.png'
+     Year: 2T4<br />
+     Hey everyone, I’m Kd and I’m a 2T4! I’m excited to be MSE Clubs Communications/Socials Director for the 2T2-2T3 skule year! Dm me on insta @mseclubuoft for any questions/comments/concerns and I’ll be happy to help!
+     
+-  name: 'Isabella Ferrara'
+   img: 'isabella.png'
    role: 'Academic Director'
    email: ''
    description: |
      Pronouns: She/her<br />
-     Year: 2T3<br />
-     Hi all! I'm Samantha Paradi-Maropakis  (she/her) and I'm the MSE Club academic director this year. I'm an MSE 2T3 (third year) and my role is primarily to support student/faculty relations, especially in terms of academics and the curriculum! As an additional note, if you feel you cannot/should not come to class due to COVID symptoms and are having trouble being accommodated by your professors please let me (or your year reps) know and we can try to help with that.
--  name: 'Kaija Mikes'
-   img: 'kaija.jpg'
+     Year: 2T2 + PEY<br />
+    
+-  name: 'CJ Conlin'
+   img: 'cj.png'
    role: 'Technical Director'
    email: ''
    description: |
-     Pronouns: She/her<br />
-     Year: 2T5<br />
-     Hi everyone! I’m Kaija I’m an MSE 2T5 and I use she/her pronouns. I’m the MSE Club’s Technical Director this year. I’m in charge of managing our club website and keeping our important links card updated. Please feel free to reach out if you have any questions for me about the website (DM on discord is best!).
--  name: 'David Petriw'
-   img: 'david.png'
+     Pronouns: They/Them<br />
+     Year: 2T4<br />
+     Hey y’all! My name is CJ (2T4) and I'm the technical director this year! I will be running the MSE club website (the website ur on rn hehe) and link card this year keeping things in order. If you have any questions, concerns, or suggestions please feel free to reach out to me on discord: conminister#1439! :P.
+     
+-  name: 'Rebecca Ing'
+   img: 'rebecca.png'
    role: 'Common Room Director'
    email: ''
    description: |
-     Pronouns: He/him<br />
-     Year: 2T3<br />
-     Hey folks, I'm very excited to keep our lovely common room nice and shiny while also beating you at super smash bros. Fair warning, I main Ness.
--  name: 'Jonathan Shan'
-   img: 'jonathan.jpg'
+     Pronouns: She/him<br />
+     Year: 2T4<br />
+     Hey I’m Rebecca and am an MSE 2T4 and this year’s common room manager! I’m in charge of the maintenance and upgrades to the common room, so please don’t hesitate to reach out if you have any ideas!
+     
+-  name: 'Lillian Kang'
+   img: 'lillian.png'
    role: 'Mentorship Director'
-   email: ''
+   email: 'Lillian.Kang@mail.utoronto.ca'
    description: |
-     Prounouns: He/him<br />
-     Year: 2T3<br />
-     Hi everyone, my name is Jonathan (2T3) and im the Mentorship Director. I am in charge of establishing a new mentorship program with the faculty. Feel free to reach out to me on Discord
--  name: 'Andrew Wuebbolt'
-   img: 'andrew.png'
+     Prounouns: They/she<br />
+     Year: 2T4<br />
+     Hi everyone! I'm Lillian, an MSE 2T4 and I use she/they pronouns. It's nice to meet you all! I'm MSE club's Mentorship director this year and I'm in charge of getting our new MUM (MSE Undergrad Mentorship) program up and running! Please feel free to reach out to me if you have any questions or want to volunteer as a mentor. I hope you all have a great year!
+     
+-  name: 'Nicole Ryk'
+   img: 'nicole.png'
    role: '4th year Representative'
    email: ''
    description: |
-     Pronouns: He/him<br />
-     Year: 2T1 + PEY<br />
-     I’d rather be in the common room… scratch that, comp lab...
--  name: 'Shuai (David) Jia'
-   img: 'shuai.jpg'
+     Pronouns: She/her<br />
+     Year: 2T2 + PEY<br />
+     Hi, I'm Nicole and I'm your MSE 4th year rep! I'm here to be the voice of 4th years and help make some final memories together. Let's make 4th year the best year yet!
+     
+-  name: 'Tobin Zheng'
+   img: 'tobin.png'
    role: '3rd year Representative'
    email: ''
    description: |
      Pronouns: He/him<br />
-     Year: 2T3<br />
-     Hi MSE2T3, aka Fabian’s Children, how are u? Oh, You haven’t heard my name before? My name is Shuai Jia, you can call me David if you want. Same as you, I love chemistry, physics and material. During my free time, I am a big fan of outdoor activities, such as trail biking.
--  name: 'Tobin Zheng'
-   img: 'tobin.jpg'
+     Year: 2T4<br />
+     Hey y'all, happy to be serving as the class rep for MSE 2T4 once again this year! Feel free to get in touch with me if you have any feedback or concerns regarding 3rd year courses.
+     
+-  name: 'Iva Guo'
+   img: 'iva.png'
    role: '2nd year Representative'
    email: ''
    description: |
-     Pronouns: He/him<br />
-     Year: 2T4<br />
-     Most 2T4s know me already but I'm Tobin, MSE 2T4 Class Rep. My job is academic advocacy for 2T4s, so I am the point of contact between students and professors for things related to course structures, deadlines, marking, etc. I also organize events for our year. You can reach me here on Discord, on Instagram at @tobinjeremiah, or just talk to me in person.
--  name: 'Lachlan Kempson'
-   img: 'lachlan.jpg'
+     Pronouns: She/her<br />
+     Year: 2T5<br />
+     Hi y'all! I'm Iva, MSE 2T5. I'm the second year rep this year, which means l'll be attending class rep meetings and sending emails so you don't have to ;) Feel free to reach out if you have any questions or concerns, or just to chat!
+     
+-  name: 'TBD'
+   img: 'blank_pic.png'
    role: '1st year Representative'
    email: ''
    description: |
-    Pronouns: He/him<br />
-    Year: 2T5<br />
-    Hello! I'm Lachlan I go by he/him/his pronouns, I am a 2T5, and the acting first year rep. This means that moving forward I will be fulfilling the roles of the first year rep. If you have any concerns with the courses that you wish to communicate to the professors or TAs you can send me a dm and I'll help that along!
--  name: 'Ibrahim Ameli'
-   img: 'ibrahim.jpg'
+    Pronouns: N/A<br />
+    Year: N/A<br />
+    
+-  name: 'Raysa Dyczok'
+   img: 'raysa.png'
    role: 'BOD Representative'
    email: ''
    description: |
-     Pronouns: He/him<br />
-     Year: 2T3<br />
-     Hi to all you amazing MSEs! I’ll be your Board of Directors Rep for this academic year. I’m really looking forward to talking to you all in-person. If you see me on campus and want to talk, just give me a holler, or find me in the pit for some sweet chess action.
+     Pronouns: She/they<br />
+     Year: 2T4<br />
+     Hey y'all, I'm Raysa, MSE 2T4! I'm the MSE BOD rep, which basically means I attend the EngSoc board of directors meetings every month so you don't have to. If you have any questions about how EngSoc works, let me know! (even if you just want to know what the heck the officers' jobs are and why they're so important) I am also always down to meet other MSEs MSEs so say hi if you see me around campus :)
